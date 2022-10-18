@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dodo-pizza/static/css/main.31d6cfe0.css",
-    "main.js": "/dodo-pizza/static/js/main.9a0a56ba.js",
+    "main.js": "/dodo-pizza/static/js/main.a85f5c3d.js",
     "static/media/Rectangle 38.png": "/dodo-pizza/static/media/Rectangle 38.b496124c0fee1adcb022.png",
     "static/media/B.png": "/dodo-pizza/static/media/B.3db302afa001ea632648.png",
     "index.html": "/dodo-pizza/index.html",
-    "main.9a0a56ba.js.map": "/dodo-pizza/static/js/main.9a0a56ba.js.map"
+    "main.a85f5c3d.js.map": "/dodo-pizza/static/js/main.a85f5c3d.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.9a0a56ba.js"
+    "static/js/main.a85f5c3d.js"
   ]
 }
